@@ -1,6 +1,7 @@
 // Leetcode Problem/isPowerOfTwo.cpp
 
 /* Bit operation: whenever n is a power of 2, it is equivalent that n>0 and n & n-1 = 0.*/
+/* Note: Avoid using recursion. */
 
 class Solution {
 public:
