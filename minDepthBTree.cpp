@@ -14,7 +14,7 @@
 */
 
 /* Solution: Recursion. Pay attention to the case that a node has one leaf, with the other leaf to be NULL. In this case, the min path passes through the valid leaf. 
-
+*/
 /**
  * Definition for binary tree
  * struct TreeNode {
