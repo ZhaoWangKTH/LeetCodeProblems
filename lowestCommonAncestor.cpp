@@ -26,7 +26,7 @@ You can use extra memory, helper functions, and can modify the node struct but, 
 */
 
 /* Solution: 
-  1) make sure if both of the nodes exist in the tree (visit all nodes)
+  1) check if both of the nodes exist in the tree (visit all nodes)
   2) if the first step is true, divide and conquer (function: TreeNode* lcaNode(TreeNode* root, int val1, int val2) )
   Note: I am not sure if better solution exists... likely there will be a better one. 
 */
